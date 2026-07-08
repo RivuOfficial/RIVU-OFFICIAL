@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm 𝐑𝐢𝐯𝐮 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyj/giphy.gif" width="35px"></h1>
+<h1 align="center">𝐇𝐢 𝐓𝐡𝐞𝐫𝐞, 𝐈'𝐦 𝐑𝐢𝐯𝐮 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyj/giphy.gif" width="35px"></h1>
 
 <h3 align="center">Creator by Day, Hacker by Night 🦇 | Web Developer & Reverse Engineer</h3>
 
